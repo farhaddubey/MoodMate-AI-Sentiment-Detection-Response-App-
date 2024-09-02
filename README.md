@@ -1,7 +1,8 @@
 # moodmate_snu
-Project Name
-MoodMate AI: Sentiment Detection & Response App
-Mentor: Dr. PSD 
+# Project Name: MoodMate AI: Sentiment Detection & Response App
+# Mentor: Dr. PSD 
+# Developed for: Sister Nivedita University as Final Year Project.
+
 Description
 MoodMate is a cross-platform app developed using Flutter for Android, iOS, and Web that analyzes user emotions from text, voice, and facial expressions. The app then responds with personalized funny jokes, poems, and supportive words based on the detected sentiment. It integrates advanced sentiment analysis models using NLP and AI, ensuring a delightful and engaging user experience across all platforms. The project leverages Firebase for backend services, TensorFlow Lite for sentiment detection, and Google's Speech-to-Text API for voice analysis, making it a robust and scalable solution for emotion-driven interactions.
 A new Flutter based AI project.
