@@ -1,4 +1,3 @@
-# moodmate_snu
 # Project Name: MoodMate AI: Sentiment Detection & Response App
 # Mentor: Dr. PSD 
 # Developed for: Sister Nivedita University as Final Year Project.
